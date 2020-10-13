@@ -1,0 +1,1 @@
+<h2>Bạn đã đặt hàng thành công</h2>

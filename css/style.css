@@ -1,0 +1,107 @@
+body{
+    
+}
+
+.navbar-custom{
+    background-color: #f8ac64;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: 	#FFFFFF;
+}
+.hamburger{
+    color: white !important;
+}
+
+
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: 	#FE5165;
+}
+
+.navbar-custom .navbar-brand
+{
+    color: white;
+}
+
+.navbar-brand{
+    margin-left: 2%;
+}
+
+.navbar{
+    padding: 0;
+}
+
+#header .container-fluid{
+    padding: 0;
+}
+
+h2{
+    margin-top: 10px;
+    font-size: x-large;
+}
+
+.product_grid{
+    padding: 10px;
+    
+}
+
+.card:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}
+
+
+
+.image_product{
+    overflow: hidden;
+    width: 100%;
+}
+
+.image_product img{
+    -webkit-transition: all 0.5s ease;
+}
+
+.image_product img:hover{
+    transform: scale(1.2);
+}
+
+ul {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    list-style-type: none;
+}
+
+.img-fluid
+{
+    max-height: 100%;
+}
+
+h2{
+    text-align: center;
+}
+
+.md-form{
+    margin-bottom: 2%;
+}
+
+.md-form i{
+    width: 10%;
+    font-size: 30px;
+    float: left;
+}
+
+.md-form input{
+    width: 90%;
+    float: left;
+}
+
+.row{
+    margin: 0;
+}
+
+.col-sm-12{
+    padding: 0;
+}
+
